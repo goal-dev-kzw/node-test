@@ -1,0 +1,39 @@
+//find all
+                //dbo.collection('users').find({}).toArray((err,res) => errorChecker(err,res));
+                //find By Query filter specific 
+                // let query= {name:"Naing Naing"}
+                // dbo.collection('users').find(query).toArray((err,res) =>errorChecker(err,res));
+                //find query  searching name start with M
+                //  let query= {name:/^M/};
+                // dbo.collection('users').find(query).toArray((err,res) =>errorChecker(err,res));
+                //sort in Ascending Order
+                //  let mysort = {age:1};
+                // dbo.collection('users').find().sort(mysort).toArray((err,res) =>errorChecker(err,res));
+                //sort in Descending Order
+                //  let mysort = {name:-1};
+                // dbo.collection('users').find().sort(mysort).toArray((err,res) =>errorChecker(err,res));
+                // find all user's name and age
+                // dbo.collection('users').find({},{projection:{_id:0,name:1,age:1}}).toArray((err,res)=>errorChecker(err,res));
+                //Select data   "AND"   query
+                // query={
+                //     address:"Meiktila",
+                //     age:45
+                // }
+                // dbo.collection('users').find(query).toArray((err,res) =>errorChecker(err,res));
+                 //Select data   "OR"   query
+                // query={
+                //     $or:[
+                //     {address:"Nyaung Oo"},
+                //     {age:19}
+                //     ]
+                // }
+                // dbo.collection('users').find(query).toArray((err,res) =>errorChecker(err,res));
+                //limit finding documetnts
+                //  dbo.collection('users').find({}).limit(3).toArray((err,res) =>errorChecker(err,res));
+
+
+
+
+
+
+              
