@@ -1,0 +1,41 @@
+[{
+        "id": 0,
+        "fruit": "Apple",
+        "nutritous": "VitaminA, VitaminE",
+        "price": 700,
+        "organic": true,
+        "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Fuga nisi autem nam ex similique alias exercitationem porro distinctio quia! Velit ipsam libero fuga rerum corrupti nostrum sint doloremque minus tenetur."
+    },
+    {
+        "id": 1,
+        "fruit": "Orange",
+        "nutritous": "VitaminC, VitaminB",
+        "price": 500,
+        "organic": false,
+        "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Fuga nisi autem nam ex similique alias exercitationem porro distinctio quia! Velit ipsam libero fuga rerum corrupti nostrum sint doloremque minus tenetur."
+    },
+    {
+        "id": 2,
+        "fruit": "Watermelon",
+        "nutritous": "VitaminC, VitaminE",
+        "price": 2000,
+        "organic": true,
+        "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Fuga nisi autem nam ex similique alias exercitationem porro distinctio quia! Velit ipsam libero fuga rerum corrupti nostrum sint doloremque minus tenetur."
+    },
+    {
+        "id": 3,
+        "fruit": "Pineapple",
+        "nutritous": "VitaminC, VitaminD, VitaminE",
+        "price": 1500,
+        "organic": false,
+        "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Fuga nisi autem nam ex similique alias exercitationem porro distinctio quia! Velit ipsam libero fuga rerum corrupti nostrum sint doloremque minus tenetur."
+    },
+    {
+        "id": 4,
+        "fruit": "Lemon",
+        "nutritous": "VitaminC, VitaminD, VitaminE",
+        "price": 1500,
+        "organic": false,
+        "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Fuga nisi autem nam ex similique alias exercitationem porro distinctio quia! Velit ipsam libero fuga rerum corrupti nostrum sint doloremque minus tenetur."
+    }
+]
